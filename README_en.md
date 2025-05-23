@@ -31,7 +31,7 @@ So far, it seems that this name is unique, meaning that I'm the only person on t
 ## About Rhythm Games...
 
 Currently I am mainly playing Phigros, Rotaeno, Milthm, Project SEKAI (chs), Vivid/stasis, *etc.*
-<br/>Phigros is kind of the earliest rhythm game I ever got into. My RKS is 16.44，Challenge mode rating is Rainbow 45.
+<br/>Phigros is kind of the earliest rhythm game I ever got into. My RKS is 16.44, Challenge mode rating is Rainbow 45.
 
 I hope to get into more rhythm games in the future, but only if I get a new iPad, as the old one had only 64 GB of storage. That is definitely not enough.
 
