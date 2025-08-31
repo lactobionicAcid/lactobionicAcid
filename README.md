@@ -1,9 +1,9 @@
 [*本页面亦有英文版本。This page is also available in English.*](README_en.md)
-
+<!-- Birthday
 ## 生日快乐！🎉🎂
 
 ### 今天是 lactobionicAcid 的 17 周岁生日。让我们祝他生日快乐！
-
+-->
 ## (。・ω・)？
 
 这里是 lactobionicAcid，你可以简称为 *lA.* 。
