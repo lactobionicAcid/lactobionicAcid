@@ -8,7 +8,7 @@ This is lactobionicAcid, and you could call me 乳糖酸酱 / 乳糖酸ちゃん
 
 I communicate mainly in Chinese and English.
 
-Most of the time is probably spent playing music games. Late at night I occasionally move around the [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) repository. In the future I will learn to program in C# and Visual Basic.
+Most of the time is probably spent playing music games. Late at night I occasionally move around the [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) repository.
 
 I recently gave <ruby>NTE<rt>Neverness to Everness</rt></ruby> a try... It feels like this game still needs some work... probably.
 
